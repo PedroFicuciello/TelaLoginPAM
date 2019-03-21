@@ -19,11 +19,12 @@
             android:text="E-mail: " />
 
         <EditText
-            android:id="@+id/Login"
+            android:id="@+id/txtEmail"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:ems="10"
-            android:inputType="textPassword" />
+            android:inputType="textPersonName"
+            android:text="Nome de Usuário: " />
 
         <TextView
             android:id="@+id/txtSenha"
